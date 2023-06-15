@@ -1,3 +1,3 @@
-print("hello world")
-print("hello fyhj")
-print("hello wordfsafld")
+print("hello word")
+print("hello j")
+print("herdfsafld")
